@@ -1,0 +1,105 @@
+[
+    {
+        "id": "001",
+        "nome": "BTP com gancho de tração",
+        "img": "/img/aparelhos/BTP-gancho.jpg",
+        "descricao": "O BTP (Bandeja de Tração Posterior) com gancho de tração é um aparelho ortodôntico utilizado para corrigir problemas de alinhamento e de mordida, promovendo a movimentação dos dentes e o ajuste da relação entre os arcos dentários. O gancho de tração permite a aplicação de forças direcionadas, auxiliando no movimento dos dentes para a posição desejada"
+    },
+    {
+        "id": "002",
+        "nome": "Arco lingual",
+        "img": "/img/aparelhos/arco-lingual.jpg",
+        "descricao": "O arco lingual é um aparelho ortodôntico fixo que é colocado na parte interna dos dentes (lado da língua), tornando-o discreto e menos visível. Ele é utilizado para corrigir pequenas movimentações dentárias, melhorar a posição dos dentes ou manter os resultados obtidos com tratamentos ortodônticos anteriores."
+    },
+    {
+        "id": "003",
+        "nome": "Arco contínuo c/ estabilizador",
+        "img": "/img/aparelhos/arco-continuo.jpg",
+        "descricao": "O arco contínuo com estabilizador é um aparelho ortodôntico fixo que se estende ao longo da arcada dentária, promovendo a movimentação dos dentes de maneira contínua e controlada. O estabilizador é um componente adicional que ajuda a manter os dentes na posição correta durante o tratamento, prevenindo movimentos indesejados e melhorando a eficácia do tratamento ortodôntico."
+    },
+    {
+        "id": "004",
+        "nome": "Banda e alça",
+        "img": "/img/aparelhos/banda-e-alca.jpg",
+        "descricao": "A banda e alça é um aparelho ortodôntico fixo composto por uma banda metálica que envolve os dentes e uma alça conectada a ela. A banda é colocada ao redor de um ou mais dentes e a alça, geralmente ajustável, é usada para aplicar forças direcionadas para movimentar os dentes ou para estabilizar a arcada dentária."
+    },
+    {
+        "id": "005",
+        "nome": "Bi Hélice",
+        "img": "/img/aparelhos/bi-helice.jpg",
+        "descricao": "O Bi-Hélice é um aparelho ortodôntico eficaz para expandir a arcada dentária e corrigir diferentes tipos de maloclusões. Sua utilização é indicada em casos específicos e exige acompanhamento profissional. Os benefícios do tratamento incluem a melhoria da função mastigatória, da respiração e da estética facial."
+    },
+    {
+        "id": "006",
+        "nome": "BTP",
+        "img": "/img/aparelhos/btp.jpg",
+        "descricao": "O BTP (Barra Transpalatina) é um aparelho ortodôntico fixo utilizado principalmente para expandir a arcada dentária superior. Ele é indicado para pacientes com palato estreito, mordida cruzada superior ou que necessitam de espaço adicional para o alinhamento dos dentes."
+    },
+    {
+        "id": "007",
+        "nome": "Contenção beeg",
+        "img": "/img/aparelhos/contencao-beeg.jpg",
+        "descricao": "A Contenção Begg é um aparelho ortodôntico fixo usado para manter os dentes na sua posição correta após o tratamento ortodôntico. Geralmente, é colocado na parte interna dos dentes (no lado da língua) para ser discreto. Ele ajuda a prevenir o movimento dos dentes para suas posições originais, garantindo a estabilidade dos resultados obtidos com o tratamento."
+    },
+    {
+        "id": "008",
+        "nome": "Contenção fixa higiênica",
+        "img": "/img/aparelhos/contencao-fixa-higienica.jpg",
+        "descricao": "A contenção fixa higiênica é um aparelho ortodôntico colocado na parte interna dos dentes (lado da língua) para garantir que os dentes permaneçam na posição correta após o tratamento ortodôntico. Diferente das contenções tradicionais, esta versão higiênica é projetada para facilitar a limpeza e a manutenção da higiene bucal. "
+    },
+    {
+        "id": "009",
+        "nome": "Contenção fixa reta",
+        "img": "/img/aparelhos/contencao-fixa-reta.jpg",
+        "descricao": "A contenção fixa reta é um aparelho ortodôntico fixo instalado na parte interna dos dentes (lado da língua) para assegurar que os dentes permaneçam alinhados após a conclusão do tratamento ortodôntico. Este aparelho consiste em um fio metálico reto que é colado diretamente na superfície interna dos dentes anteriores."
+    },
+    {
+        "id": "010",
+        "nome": "Hawley silmpes",
+        "img": "/img/aparelhos/hawley-silmpes-baixo.jpg",
+        "descricao": "A contenção Hawley simples é um aparelho ortodôntico removível utilizado para manter os dentes na posição correta após o tratamento ortodôntico. Este aparelho é composto por uma estrutura de arame que envolve os dentes anteriores e uma placa de acrílico que se ajusta ao céu da boca. "
+    },
+    {
+        "id": "011",
+        "nome": "Mauricio",
+        "img": "/img/aparelhos/mauricio.jpg",
+        "descricao": "a"
+    },
+    {
+        "id": "012",
+        "nome": "Patamer desoclusor",
+        "img": "/img/aparelhos/patamar-desoclusor.jpg",
+        "descricao": "O patamar desoclusor é um aparelho ortodôntico fixo ou removível utilizado para corrigir a mordida e promover a desoclusão dos dentes. Este dispositivo funciona criando uma separação entre os dentes superiores e inferiores, permitindo que a mordida seja ajustada de maneira adequada. O patamar desoclusor é frequentemente utilizado em casos de mordida cruzada, sobremordida ou outras maloclusões, ajudando a melhorar a função mastigatória e a saúde geral da mandíbula."
+    },
+    {
+        "id": "013",
+        "nome": "Placa bruxismo",
+        "img": "/img/aparelhos/placa-bruxismo.jpg",
+        "descricao": "A placa de bruxismo é um dispositivo removível feito de acrílico ou silicone, projetado para proteger os dentes do desgaste causado pelo ranger ou apertar excessivo (bruxismo) durante o sono. A placa é ajustada de forma personalizada para se encaixar confortavelmente sobre os dentes superiores ou inferiores, criando uma barreira que evita o contato direto entre os dentes. Além de proteger contra o desgaste dental, a placa de bruxismo pode ajudar a reduzir dores de cabeça, tensão muscular e outros sintomas associados ao bruxismo."
+    },
+    {
+        "id": "014",
+        "nome": "Placa reeducadora impedidora",
+        "img": "/img/aparelhos/placa-reeducadora-impedidora.jpg",
+        "descricao": "OA placa reeducadora impedidora é um dispositivo ortodôntico removível projetado para ajudar a corrigir hábitos orais prejudiciais, como a sucção de dedo ou língua, e para promover uma mordida adequada. Este aparelho é feito de acrílico ou silicone e é ajustado para se encaixar confortavelmente na boca do paciente. A placa impede movimentos inadequados da língua ou outras ações que possam interferir no alinhamento dentário e na saúde oral. O uso regular da placa reeducadora impedidora pode contribuir para o desenvolvimento de uma mordida correta e a prevenção de problemas ortodônticos futuros."
+    },
+    {
+        "id": "015",
+        "nome": "Quadri helix unilateral",
+        "img": "/img/aparelhos/quadri-helix-unilateral.jpg",
+        "descricao": "O Quadri-Helix unilateral é um aparelho ortodôntico fixo utilizado para expandir ou corrigir a arcada dentária em um único lado. Este dispositivo é composto por um fio de aço inoxidável em forma de 'W', que é ativado para aplicar forças leves e contínuas aos dentes e ao palato. O Quadri-Helix unilateral é indicado para corrigir assimetrias na arcada dentária, ajudando a alinhar os dentes e a melhorar a mordida. Por ser fixo, o aparelho proporciona um controle preciso e eficiente dos movimentos dentários."
+    },
+    {
+        "id": "016",
+        "nome": "Quadri helix",
+        "img": "/img/aparelhos/quadri-helix.jpg",
+        "descricao": "O Quadri-Helix é um aparelho ortodôntico fixo projetado para expandir a arcada dentária superior e corrigir mordidas cruzadas e outros problemas de alinhamento. Este dispositivo é composto por um fio de aço inoxidável em forma de 'W', que é ajustado para aplicar forças leves e contínuas aos dentes e ao palato. O Quadri-Helix é especialmente eficaz em pacientes jovens, cujos ossos ainda estão em fase de crescimento, proporcionando uma expansão gradual e controlada da arcada dentária. Este aparelho ajuda a criar espaço para a correta erupção dos dentes permanentes e a melhorar a mordida e a estética do sorriso."
+    },
+    {
+        "id": "017",
+        "nome": "Spring aligner",
+        "img": "/img/aparelhos/spring-aligner.jpg",
+        "descricao": "O Spring Aligner é um aparelho ortodôntico removível projetado para realizar pequenas correções no alinhamento dos dentes anteriores. Na imagem, podemos ver um modelo de gesso com o Spring Aligner posicionado na arcada dentária superior. Este dispositivo é composto por uma estrutura de acrílico que se ajusta ao palato, com arames de mola incorporados que aplicam forças suaves e contínuas para mover os dentes para a posição desejada. O Spring Aligner é ideal para ajustes menores após o tratamento ortodôntico principal ou para tratar pequenos desalinhamentos. Por ser removível, facilita a higiene bucal e pode ser retirado durante as refeições."
+    }
+
+]
