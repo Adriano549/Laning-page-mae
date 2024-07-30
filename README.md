@@ -1,3 +1,5 @@
+https://adriano549.github.io/Laning-page-mae/
+
 ## Landing Page para Protética
 Este é um projeto de landing page criado para demonstrar minhas habilidades como desenvolvedor front-end júnior. A página é dedicada ao trabalho da minha mãe como protética e serve para mostrar o que sou capaz de fazer utilizando diversas tecnologias modernas.
 
