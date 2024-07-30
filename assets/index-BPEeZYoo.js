@@ -245,4 +245,4 @@ Error generating stack: `+i.message+`
     h2 {
         color: #e0abf1;
     }
-`,hg=()=>g.jsxs(g.Fragment,{children:[g.jsx(Ii,{}),g.jsx(fg,{}),g.jsx(bf,{})]}),mg=()=>g.jsx(Em,{children:g.jsxs(vm,{children:[g.jsx(ar,{path:"/",element:g.jsx(eg,{})}),g.jsx(ar,{path:"/aparelhos",element:g.jsx(lg,{})}),g.jsx(ar,{path:"/aparelhos/:id",element:g.jsx(dg,{})}),g.jsx(ar,{path:"/sobre",element:g.jsx(hg,{})})]})});ml.createRoot(document.getElementById("root")).render(g.jsx(xe.StrictMode,{children:g.jsx(mg,{})}));
+`,hg=()=>g.jsxs(g.Fragment,{children:[g.jsx(Ii,{}),g.jsx(fg,{}),g.jsx(bf,{})]}),mg=()=>(console.log("App Component Rendered"),g.jsx(Em,{children:g.jsxs(vm,{children:[g.jsx(ar,{path:"/",element:g.jsx(eg,{})}),g.jsx(ar,{path:"/aparelhos",element:g.jsx(lg,{})}),g.jsx(ar,{path:"/aparelhos/:id",element:g.jsx(dg,{})}),g.jsx(ar,{path:"/sobre",element:g.jsx(hg,{})})]})}));console.log("Starting React Application");ml.createRoot(document.getElementById("root")).render(g.jsx(xe.StrictMode,{children:g.jsx(mg,{})}));
